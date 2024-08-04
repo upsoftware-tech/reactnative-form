@@ -1,3 +1,4 @@
 dist
 node_modules
 upsoftware-reactnative-form*.tgz
+.idea
